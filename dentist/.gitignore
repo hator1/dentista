@@ -1,0 +1,5 @@
+# Text bakup files
+*.bak
+
+#  Database
+*.sqlite3
